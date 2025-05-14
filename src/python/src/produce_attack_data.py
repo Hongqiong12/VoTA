@@ -85,7 +85,7 @@ def get_arguments():
     # 字体
     parser.add_argument('--front_path', default="", type=str)
     # 数据构建过程中的几个模型
-    parser.add_argument('--risk_scenario_produce_model', default="gpt", type=str)
+    parser.add_argument('--risk_scenario_produce_model', default="gemini-1.5-pro", type=str)
     parser.add_argument('--attack_llm_model', default="gemini-1.5-pro", type=str)
     #
     parser.add_argument('--base_save_image_path', default="./src/data/attack_data/attack_images", type=str)
