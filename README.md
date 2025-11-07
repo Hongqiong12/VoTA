@@ -8,7 +8,7 @@ This repository contains the official implementation of the paper "Towards Visua
 
 # 🔧 Get Our Attack Data
 the detail data construction pipline as shown in the picture
-![主实验的结果数据](src/fig/overview.png )
+![主实验的结果数据](src/fig/overview.png)
 
 you can directly get our data from  [attack_data](src/data/attack_data)
 
