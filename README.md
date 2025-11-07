@@ -1,7 +1,9 @@
 
-# Overview
+# Towards Visualization-of-Thought Jailbreak Attack against Large Visual Language Models (NeurIPS 2025)
 
-In the paper *Towards Visualization-of-Thought Jailbreak Attack against Large Visual Language Models*, We propose VoTA, a novel attack framework that exploits the tension between logical reasoning and safety objectives in VLMs by generating chains of images with risky visual thoughts, achieving significantly higher success rates than existing methods.
+This repository contains the official implementation of the paper "Towards Visualization-of-Thought Jailbreak Attack against Large Visual Language Models" accepted at NeurIPS 2025.
+
+📄 **Paper:** [Towards Visualization-of-Thought Jailbreak Attack against Large Visual Language Models](https://openreview.net/pdf/98bc54bf489ff48cae9cd4c5cff483480722ea9c.pdf)
 
 
 # Get Our Attack Data Synthesis Process
